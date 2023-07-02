@@ -14,6 +14,13 @@ Repositório com códigos de testes de desenvolvimento e aplicação do trabalho
 
 
 **Para execução dos contêineres com a aplicação:**
+
+Edite o arquivo <ins>classifier.py</ins> com a sua OpenAI API key, obtida através de https://platform.openai.com/account/api-keys:
+
+> vi tcc29010/aplicacao/sentiment-analysis-api/classifier.py
+
+Inicialize os contêineres:
+
 > cd tcc29010/aplicacao\
 > sudo docker-compose up --build
 
@@ -22,3 +29,7 @@ Repositório com códigos de testes de desenvolvimento e aplicação do trabalho
 
 **Caso prefira testar através da API:**
 > curl -X 'POST'   'http://localhost:8000/predict?text=TEXTO%20DE%20EXEMPLO'   -H 'accept: application/json'   -d ''
+
+ou, para detalhes da API:
+
+> http://localhost:8000/docs
