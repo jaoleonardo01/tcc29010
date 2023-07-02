@@ -36,6 +36,6 @@ ou, para detalhes da API:
 
 
 
-Referências:\
-https://medium.com/data-hackers/an%C3%A1lise-de-sentimentos-em-portugu%C3%AAs-utilizando-pytorch-e-python-91a232165ec0\
-https://www.kaggle.com/code/evilmage93/gpt-2-finetuning-on-sentiment-classification/notebook
+Referências:
+> https://medium.com/data-hackers/an%C3%A1lise-de-sentimentos-em-portugu%C3%AAs-utilizando-pytorch-e-python-91a232165ec0
+> https://www.kaggle.com/code/evilmage93/gpt-2-finetuning-on-sentiment-classification/notebook
