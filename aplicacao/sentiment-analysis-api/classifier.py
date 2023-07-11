@@ -32,7 +32,7 @@ def predict(text):
     prompt_text = f"""
         Analyze the sentiment (positive, neutral or negative) of the following text: '''{text}'''.
 
-        The response, in JSON format, must only contain the sentiment, anger (yes or no), product, brand and \
+        The response, in JSON format, must only contain the sentimento, anger (yes or no), product, brand and \
             text with the '''{text}''' value translated to brazilian portuguese.
 
         The default value is 'Não fornecido'.
