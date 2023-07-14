@@ -1,7 +1,7 @@
 ### Instituto Federal de Santa Catarina
 Aluno: João Leonardo Martins\
 TCC 29010\
-Orientador: Prof. Mario de Noronha Neto, Dr.
+Orientador: Prof. Mário de Noronha Neto, Dr.
 
 ### APLICAÇÃO WEB PARA ANÁLISE DE SENTIMENTOS UTILIZANDO A TECNOLOGIA TRANSFORMERS
 Repositório com códigos de testes de desenvolvimento e aplicação do trabalho de conclusão de curso.
